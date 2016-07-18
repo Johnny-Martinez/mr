@@ -1,0 +1,41 @@
+{
+  "name": "mr",
+  "version": "1.0.0",
+  "bin": {
+    "mr": "./lib/mr.js"
+  },
+  "author": "kelveden@gmail.com",
+  "dependencies": {
+    "JSONPath": "0.10.0",
+    "aws-sdk": "2.2.10",
+    "babel-runtime": "6.2.0",
+    "colors": "1.1.2",
+    "commander": "2.8.1",
+    "copy-paste": "^1.1.4",
+    "crypto": "0.0.3",
+    "inquirer": "0.10.1",
+    "lodash": "3.10.1",
+    "prettyjson": "1.1.3",
+    "ramda": "0.17.1",
+    "request": "2.62.0",
+    "rimraf": "2.5.1",
+    "sync-exec": "0.6.2"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "6.1.18",
+    "babel-polyfill": "6.2.0",
+    "babel-preset-es2015": "6.1.18",
+    "chai": "3.2.0",
+    "gulp": ">=3.9.0",
+    "gulp-babel": "6.1.0",
+    "gulp-complexity": "0.3.0",
+    "gulp-jshint": "1.11.2",
+    "gulp-mocha": "2.1.3",
+    "jshint-stylish": "2.0.1",
+    "mocha": "2.3.2",
+    "xml2js": "0.4.12"
+  },
+  "engines": {
+    "node": ">=0.10.40"
+  }
+}
