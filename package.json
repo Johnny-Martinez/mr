@@ -11,7 +11,7 @@
     "babel-runtime": "6.2.0",
     "colors": "1.1.2",
     "commander": "2.8.1",
-    "copy-paste": "^1.1.4",
+    "copy-paste": "1.1.4",
     "crypto": "0.0.3",
     "inquirer": "0.10.1",
     "lodash": "3.10.1",
